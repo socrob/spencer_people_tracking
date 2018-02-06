@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <launch>
     <!-- Launch file arguments -->
     <arg name="height_above_ground" default="1.6"/>  <!-- in meters, assumes a horizontally oriented RGB-D sensor; important for accurate detection -->
