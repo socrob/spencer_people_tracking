@@ -1,5 +1,5 @@
-<!-- Launches the leg detector from wg-perception (needs to be installed separately) -->
 <launch>
+<!-- Launches the leg detector from wg-perception (needs to be installed separately) -->
     <arg name="scan" default="scan"/>                           <!-- laser scan input topic -->
     <arg name="detected_persons" default="detected_persons"/>   <!-- output topic -->
     <arg name="node_prefix" default="leg_detector"/>            <!-- prefix for node names -->
